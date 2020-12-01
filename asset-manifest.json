@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appointment-firebase/static/css/main.546c7631.chunk.css",
+    "main.js": "/appointment-firebase/static/js/main.13bddcf6.chunk.js",
+    "main.js.map": "/appointment-firebase/static/js/main.13bddcf6.chunk.js.map",
+    "runtime-main.js": "/appointment-firebase/static/js/runtime-main.dac1556a.js",
+    "runtime-main.js.map": "/appointment-firebase/static/js/runtime-main.dac1556a.js.map",
+    "static/js/2.0cea0df7.chunk.js": "/appointment-firebase/static/js/2.0cea0df7.chunk.js",
+    "static/js/2.0cea0df7.chunk.js.map": "/appointment-firebase/static/js/2.0cea0df7.chunk.js.map",
+    "static/js/3.0eea2bd6.chunk.js": "/appointment-firebase/static/js/3.0eea2bd6.chunk.js",
+    "static/js/3.0eea2bd6.chunk.js.map": "/appointment-firebase/static/js/3.0eea2bd6.chunk.js.map",
+    "index.html": "/appointment-firebase/index.html",
+    "static/css/main.546c7631.chunk.css.map": "/appointment-firebase/static/css/main.546c7631.chunk.css.map",
+    "static/js/2.0cea0df7.chunk.js.LICENSE.txt": "/appointment-firebase/static/js/2.0cea0df7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac1556a.js",
+    "static/js/2.0cea0df7.chunk.js",
+    "static/css/main.546c7631.chunk.css",
+    "static/js/main.13bddcf6.chunk.js"
+  ]
+}
